@@ -8,6 +8,12 @@ A love of leveraging technology to improve life quality!
 ## What it does
 This app allows you to learn a new language while doing exercise, in a fun and gamified AR environment (thanks to the Huawei HMS SDK)! You are presented with a word in a foreign language, which you must translate. If you do not know the translation of the word, you instead have to perform a specific comedic yoga position in order to pass the round and earn a point.
 
+### Demo
+
+(If you can't open YouTube, you can watch the same video on [Bilibili](https://www.bilibili.com/video/BV1DD4y1o72W))
+
+[![Demo Video](http://img.youtube.com/vi/5dfLwA-JWGA/0.jpg)](https://youtu.be/5dfLwA-JWGA "FITFIT")
+
 ## How we built it
 With patience and coffee :)
 
